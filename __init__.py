@@ -1,0 +1,1 @@
+__all__ = ["Pokemon_code","Attack_code","Meteo_code","Statu_code","Element_code","Object_code","Bonus_code","Groupe_code"]
